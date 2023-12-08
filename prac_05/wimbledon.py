@@ -9,7 +9,6 @@ def main():
     champion_to_count, countries = process_records(records)
     display_results(champion_to_count, countries)
 
-
 def process_records(records):
     champion_to_count = {}
     countries = set()
