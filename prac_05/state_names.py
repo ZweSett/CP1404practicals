@@ -4,6 +4,7 @@ CODE_TO_NAME = {"QLD": "Queensland", "NSW": "New South Wales",
                 "TAS": "Tasmania"}
 
 state = input("Enter short state: ").upper()
+
 while state != "":
     if state in CODE_TO_NAME:
         print(state, "is", CODE_TO_NAME[state])
