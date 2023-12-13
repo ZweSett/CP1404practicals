@@ -10,6 +10,7 @@ class Car:
     def add_fuel(self, amount):
         self.fuel += amount
 
+
     def drive(self, distance):
         if distance > self.fuel:
             distance = self.fuel

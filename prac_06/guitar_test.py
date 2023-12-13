@@ -2,7 +2,6 @@ from prac_06.guitar import Guitar
 
 CURRENT_YEAR = 2017
 
-
 def run_tests():
     name = "Gibson L-5 CES"
     year = 1922
