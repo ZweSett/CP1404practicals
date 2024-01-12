@@ -1,4 +1,3 @@
-
 CURRENT_YEAR = 2022
 VINTAGE_AGE = 50
 
@@ -31,3 +30,4 @@ class Guitar:
     def __lt__(self, other):
         """Less than, used for sorting Guitars - by year released."""
         return self.year < other.year
+
