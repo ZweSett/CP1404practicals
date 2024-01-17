@@ -4,3 +4,5 @@
 
 3.Looking at the practical tasks as a whole, there's an opportunity for improvement in terms of providing more detailed and real-world scenarios. This would better prepare participants for challenges they might face in professional settings. Additionally, incorporating more collaborative elements into the tasks could enhance teamwork skills, as real-world projects often involve multiple contributors. If given the chance to oversee the subject, I would aim to strike a balance between theoretical understanding and practical application, ensuring a more holistic and industry-relevant learning experience.  
 
+
+
